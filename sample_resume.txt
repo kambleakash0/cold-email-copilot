@@ -1,0 +1,308 @@
+================================================================================
+AKASH ANKUSH KAMBLE
+================================================================================
+
+Email: kambleakash0@gmail.com
+Phone: +1 (716) 306-8297
+LinkedIn: linkedin.com/in/kambleakash
+GitHub: github.com/kambleakash0
+
+
+================================================================================
+PROFESSIONAL SUMMARY
+================================================================================
+
+Accomplished Data Scientist and Engineer with hands-on experience at top-tier 
+companies like Google (via acquisition) and OpenAI (via contract with Turing). 
+Specializes in developing high-performance data pipelines and architecting 
+scalable, end-to-end machine learning solutions. Proven track record of 
+delivering significant performance improvements, such as optimizing a critical 
+ETL pipeline by 24x and slashing regression testing cycles by 67%. Holds a 
+Master's from IIT Madras and is currently completing a Master's in Data 
+Science at SUNY Buffalo. Proficient in Python, Docker, GCP, and modern AI 
+frameworks like LangChain and Llama Index.
+
+
+================================================================================
+EXPERIENCE
+================================================================================
+
+TURING INC. (Part-time)
+Dec 2022 -- May 2024
+Python Developer | Remote, Palo Alto, CA, USA
+
+RLHF Training for ChatGPT (Client: OpenAI) | Python, JavaScript, Ansible
+- Authored and curated a high-quality dataset of more than 800 novel 
+  programming conversations, directly improving the model's reasoning and 
+  factual accuracy.
+- Consistently maintained a top-tier quality score of 6.7/7 (over 95%), 
+  ensuring the effectiveness of the training data used for the next model 
+  iteration.
+- GPT4-o yielded a 5x performance and speed improvement over its predecessor, 
+  GPT4.
+
+
+ARGONAUT AI LLC (Acquired by Google)
+Dec 2022 -- Oct 2023
+Lead Data Scientist | Remote, Berkeley, CA, USA
+
+Data Extraction Pipeline (Client: TeamCare) | Python, Docker, GCP
+- Optimized a critical ETL pipeline, achieving a 24x performance increase by 
+  reducing average query processing time from 8 minutes to just 20 seconds.
+- Engineered the backend service to extract, clean, and generate vector 
+  embeddings from complex textual and tabular data for consumption by Large 
+  Language Models.
+
+AI Studio (Client: Aspirion) | Python, Docker, Svelte
+- Architected and delivered a self-service "AI Studio" that enabled 
+  non-technical teams to test and fine-tune LLM-based chatbots independently.
+- This eliminated the need for engineering support in the testing phase, 
+  significantly reducing development bottlenecks and accelerating the feedback 
+  loop.
+
+
+HCLTECH LTD.
+Aug 2019 -- Nov 2022
+Senior Software Engineer | On-site, Chennai, TN, India
+
+Awarded "O'Infinity Achiever" trophy for top performance in automation projects.
+
+CDM Platform Qualification (Client: Rubrik Inc.) | Python, Ansible, REST APIs, Redfish
+- Slashed the regression testing cycle time by 67% (from 3 weeks to 1 week) by 
+  architecting and deploying a full-scale automation framework.
+- Developed and packaged a custom Python library that integrated with Ansible 
+  and hardware APIs with REST and Redfish, empowering the testing team with a 
+  streamlined, reusable solution.
+
+AWS S3-like Distributed Object Storage System (Client: Pure Storage) 
+| Node.js, Docker
+- Engineered a scalable, S3-compatible distributed object storage system for 
+  on-premises deployment, enabling the client to offer a robust private cloud 
+  storage solution.
+- Leveraged Docker Swarm for high-availability and load balancing, and 
+  integrated the open-source Zenko CloudServer with Pure Storage's proprietary 
+  backend infrastructure.
+
+
+IIT MADRAS (Part-time)
+Jul 2017 -- May 2019
+Teaching Assistant | On-site, Chennai, TN, India
+
+Programming Instructor and Library Assistant 
+(Client: Dept. of Computer Science) | C, C++
+- Led instruction and provided mentorship to freshman engineering students on 
+  core programming principles through lectures, labs, and direct feedback on 
+  code assignments.
+- Oversaw the management and circulation of the Computer Science department's 
+  technical library, ensuring resource availability for the academic community.
+
+
+================================================================================
+EDUCATION
+================================================================================
+
+State University of New York (SUNY Buffalo)
+Master of Science in Engineering Sciences (Data Science)
+Jan 2025 -- Expected May 2026 | Buffalo, NY, USA
+
+Indian Institute of Technology Madras (IITM)
+Master of Technology in Computer Science and Engineering
+Aug 2017 -- Jul 2019 | Chennai, TN, India
+
+Shri Guru Gobind Singhji Institute of Engg. & Technology (SGGSIE&T)
+Bachelor of Technology in Computer Science and Engineering
+Aug 2013 -- Jul 2017 | Nanded, MH, India
+
+
+================================================================================
+TECHNICAL SKILLS
+================================================================================
+
+Web Frameworks:        FastAPI, Django, Node.js
+
+AI/LLM Tools:          LangChain, Llama Index, VertexAI, Gemini
+
+DevOps Infrastructure: AWS, GCP, Ansible, Docker, Hadoop, Jenkins
+
+Languages:             Python, C, C++, R, HTML/CSS, JavaScript, SQL, Golang
+
+Developer Tools:       Git, GitHub, Bash, Confluence, JIRA, LaTeX, Postman, 
+                       VSCode, Codio, Redfish, REST APIs
+
+
+================================================================================
+RELEVANT COURSEWORK
+================================================================================
+
+Data Structures                  Algorithms Analysis
+Software Engineering             Database Management
+Reinforcement Learning           Cloud Computing
+Probability Theory               Blockchain Foundation
+Distributed Systems              Cryptography
+Operating Systems                Digital System Design
+
+
+================================================================================
+SELECTED PROJECTS
+================================================================================
+
+ML-DRIVEN PROTEIN FUNCTION PREDICTION
+Jan 2025 -- May 2025
+Python, ProBERT, GCN | GitHub: github.com/kambleakash0/CAFA5-Protein-Function-Prediction
+
+- Developed a protein function prediction pipeline using a custom graph-aware 
+  k-NN model that achieved a 3x higher F1-score (0.45 vs. 0.15) than a Graph 
+  Convolutional Network (GCN) baseline.
+- The model accelerates research by enabling computational screening that can 
+  reduce experimental validation workload by over 90%.
+- Report: Available on Google Drive
+
+
+MUBI'S MOVIE DATA ANALYSIS & DB PIPELINE
+Feb 2025 -- Apr 2025
+Python, SQLite3 | GitHub: github.com/kambleakash0/mubi_eda (Part 1), 
+                           github.com/kambleakash0/mubi_sql (Parts 2 & 3)
+
+- Executed an end-to-end analysis of the MUBI dataset by building a 
+  normalized SQLite database from raw CSVs, uncovering actionable insights 
+  into MUBI subscribers' behavior and content trends through targeted SQL 
+  querying and visualization.
+- Report: Available on Google Drive
+
+
+AUTOMATED CONTENT SUMMARY NOTIFIER
+Feb 2025 -- Apr 2025
+Docker, FastAPI, Gemini, Postmark | GitHub: github.com/kambleakash0/substack_monitor
+
+- Engineered a Python application to automate content consumption by 
+  monitoring Substack blogs, generating AI-powered summaries with the Gemini 
+  API, and delivering them via Postmark email notifications.
+- The service, built with FastAPI and containerized using Docker, provides 
+  users with timely, concise updates, significantly reducing reading time.
+
+
+DYNAMIC TRAFFIC SIGNAL CONTROL WITH REINFORCEMENT LEARNING
+Jun 2018 -- Apr 2019
+Python, SUMo | GitHub: github.com/kambleakash0/IITM_MTP
+
+- Engineered a real-time, adaptive traffic signal control system using 
+  Reinforcement Learning to minimize congestion in a simulated urban 
+  environment (Eclipse SUMo).
+- The dynamic agent demonstrated significant efficiency gains over static 
+  signal cycles, achieving:
+  * A 6.5-hour reduction in total vehicle waiting time for 8,000 vehicles.
+  * A 66-minute improvement in clearing time for 22,000 vehicles through a 
+    major intersection.
+- This was the master's project at IIT Madras.
+- Thesis report: Available on Google Drive
+
+STREAMING DATA WITH MOSQUITTO BROKER
+Jan 2018 -- May 2018
+Python, Mosquitto Broker
+
+- Used humidity and temperature sensors for transmitting data intermittently 
+  using the MQTT protocol to remote cloud servers for processing and analysis.
+- Key Takeaway: How intermittent data transfer takes place without a 
+  persistent connection.
+
+CHAT APP WITH NODE.JS
+Nov 2022
+JavaScript, Node.js, Web Sockets, CSS | GitHub: github.com/kambleakash0/chat_app_nodejs
+App: chat-app-dsdb.onrender.com
+
+- A web-based chat app that allows members to join particular chat rooms and 
+  allows users in the same chat room to post text messages and their current 
+  location.
+- Key Takeaway: How web sockets work.
+
+WEATHER APP WITH NODE.JS
+Oct 2022
+JavaScript, Node.js, Handlebars, CSS | GitHub: github.com/kambleakash0/weather_nodejs
+App: weather-app-nodejs.onrender.com
+
+- A web-based app that takes location as input from the user, and outputs 
+  current weather details like temperature, humidity, etc.
+- Key Takeaway: How to deploy Node apps to production.
+
+
+SIMPLE API WITH DJANGO REST FRAMEWORK
+May 2022 -- Jul 2022
+Python, Django | GitHub: github.com/kambleakash0/django_api
+
+- Built a simple API that lets users show any data that they query for. The 
+  data is accessible through the API using JSON, just like any other API.
+- Key Takeaway: How to build my own API with Django and Python.
+
+CRYPTOGRAPHY - BLOCK CIPHER
+Mar 2018 -- May 2018
+C, Linux
+
+- Designed and implemented a block cipher similar to AES with an irreducible 
+  polynomial different from AES.
+- Key Takeaway: How Block Cipher cryptography works.
+
+
+JAVA APPLET BASED DATABASE MANAGEMENT SYSTEM
+Sep 2015 -- Oct 2015
+Java, JDBC drivers
+
+- A Java Applet-based offline Database Management System that inserts given 
+  data in a specific format and retrieves it using various parameters. It 
+  utilizes a MySQL Database Environment and employs JDBC-ODBC connectors to 
+  access and store data.
+- Key Takeaway: How Java Applets work and how to connect Java apps to a 
+  database.
+
+CRYPTOGRAPHY - HOMOMORPHIC ENCRYPTION
+Dec 2016 -- Mar 2017
+Python
+
+- Explored the uses of Homomorphic Encryption, its various types, applications 
+  in cloud security, and challenges for Homomorphic Encryption.
+- Key Takeaway: Studied what is Homomorphic Encryption.
+
+
+================================================================================
+LEADERSHIP | CO-CURRICULAR | EXTRACURRICULAR
+================================================================================
+
+VOLUNTEER - IAD Days Symposium
+Apr 2025
+- Core team member for IAD Days, a three-day annual AI symposium at the 
+  University at Buffalo, New York.
+
+OPEN-SOURCE CONTRIBUTOR - Llama-Index
+Sep 2023
+- Pull request: github.com/run-llama/llama_index/pull/7862
+
+OPEN-SOURCE CONTRIBUTOR - Rubrik SDK for Python
+Sep 2022
+- Pull request: github.com/rubrikinc/rubrik-sdk-for-python/pull/284
+
+OPEN-SOURCE CONTRIBUTOR - Langchain
+Jun 2023
+- Pull request: github.com/langchain-ai/langchain/pull/6603
+
+HALF TIME TEACHING ASSISTANT (HTTA) - IIT Madras
+Aug 2017 -- May 2019
+
+ASSISTANT COORDINATOR - M'trix
+Sep 2013 -- Aug 2015
+- Ethical Hacking & Programming Club of SGGSIE&T
+
+SEMINAR CONDUCTOR
+Oct 2015
+- A 3-part talk series on Cloud Computing and Security
+- Slides available on Slideshare: slideshare.net/akashkamble12
+
+FILMMAKER
+Apr 2015 -- May 2015
+- Shooting, editing and publication of a virtual campus tour of SGGSIE&T, 
+  Nanded
+- Video: "SGGSIE&T, A Voyage" - youtube.com
+
+VOLUNTEER - RMageddon
+Jan 2014
+- Core Team member for RMageddon (a robotics challenge at SGGSIE&T)
+
+================================================================================

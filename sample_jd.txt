@@ -1,0 +1,28 @@
+Software Engineer III, Android System UI, Mobile
+
+Minimum qualifications:
+
+    Bachelor’s degree or equivalent practical experience.
+    2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree.
+    2 years of experience with Android application development.
+    Experience in front-end or User Interface (UI) development.
+    Experience with programming in Kotlin or Java.
+
+
+Preferred qualifications:
+
+    2 years of experience with data structures and algorithms.
+    Experience with the Android platform and app development.
+    Experience with Jetpack Compose.
+
+About the job
+Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information on a massive scale and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design, and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities, and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.
+
+The Android System UI team creates the interface that users around the world interact with every day, from unlocking their phones to launching apps, toggling WiFi, or replying. Android is Google’s mobile operating system, powering more than 3 billion devices worldwide. Android is about bringing computing to everyone in the world. We believe computing is a superpower for good, enabling access to information, economic opportunity, productivity, connectivity between friends and family, and more. We think everyone in the world should have access to the best computing has to offer. We provide the platform for original equipment manufacturers (OEMs) and developers to build compelling computing devices (smartphones, tablets, TVs, wearables, etc) that run the best apps/services for everyone in the world.
+Responsibilities
+
+    Build beautiful, performant, accessible UIs using Java and Kotlin.
+    Collaborate with User Experience (UX) to prototype, iterate, and refine interaction designs.
+    Implement new framework-level Application Programming Interfaces (APIs) as needed.
+    Craft custom views, animations, and visual effects.
+    Maintain code quality through testing, documentation, and refactoring.
