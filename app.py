@@ -208,6 +208,7 @@ def generate_gmail_link(email, subject, body):
 
 def check_inputs(resume, jd, name, domain):
     """Checks if all inputs are present to enable the Generate button."""
+    # print(f"DEBUG: resume={resume}, jd={bool(jd)}, name={bool(name)}, domain={bool(domain)}")
     if resume and jd and name and domain:
         return gr.update(interactive=True)
     return gr.update(interactive=False)
@@ -302,6 +303,9 @@ with gr.Blocks(title="Cold Email Copilot",
     input_components = [resume_input, jd_input, recruiter_name_input, company_domain_input]
     for comp in input_components:
         comp.change(fn=check_inputs, inputs=input_components, outputs=generate_btn)
+    
+    # Also trigger check when resume is cleared (File components support .clear())
+    resume_input.clear(fn=check_inputs, inputs=input_components, outputs=generate_btn)
 
 
 # Run the app
